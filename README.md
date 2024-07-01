@@ -30,8 +30,8 @@ I'm a passionate aspiring Software Developer currently pursuing a Bachelor's deg
 
 ## Contact Me
 
-- 📧 Email: [akrovvidi05@gmail.com]
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aniruddh-krovvidi-659725245)]
+- 📧 Email: akrovvidi05@gmail.com
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aniruddh-krovvidi-659725245)
 
 
 I'm eager to contribute my skills and passion for software development to innovative projects and teams. Let's connect and explore opportunities to create impactful solutions together!
