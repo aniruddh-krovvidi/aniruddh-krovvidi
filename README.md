@@ -7,7 +7,7 @@ I'm a passionate aspiring Software Developer currently pursuing a Bachelor's deg
 
 ## About Me
 
-- 🔭 I’m currently working on implementing payment integration on [PropertyHub](https://github.com/aniruddh-krovvidi/RealEstate-FullStack).
+- 🔭 I’m currently working on implementing payment integration on [CarMania](https://github.com/aniruddh-krovvidi/RealEstate-FullStack).
 - 🌱 I’m learning and experimenting with various technologies, including Python, Java, and JavaScript.
 - 💻 I enjoy tackling complex problems and am eager to explore new challenges in software development.
 - 📚 I'm constantly seeking opportunities to expand my knowledge and stay updated with industry trends.
