@@ -7,7 +7,7 @@ I'm a passionate aspiring Software Developer currently pursuing a Bachelor's deg
 
 ## About Me
 
-- 🔭 I’m currently working on building a distributed (Task Optimizer Scheduler)[https://github.com/aniruddh-krovvidi/Task-Optimizer] using microservices and linear programming.
+- 🔭 I’m currently working on building a distributed [Task Optimizer Scheduler](https://github.com/aniruddh-krovvidi/Task-Optimizer) using microservices and linear programming.
 - 🌱 I’m learning and experimenting with various technologies, including Python, Java, and JavaScript.
 - 💻 I enjoy tackling complex problems and am eager to explore new challenges in software development.
 - 📚 I'm constantly seeking opportunities to expand my knowledge and stay updated with industry trends.
