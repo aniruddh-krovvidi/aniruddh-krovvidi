@@ -17,7 +17,7 @@ I'm a passionate aspiring Software Developer currently pursuing a Bachelor's deg
 ## Skills
 
 - **Languages:** Java, Python, C/C++, SQL, MongoDB, JavaScript, Swift, HTML, CSS, Bash, MATLAB
-- **Frameworks: React, Node.js, Flask, JUnit, WordPress, SwiftUI
+- **Frameworks**: React, Node.js, Flask, JUnit, WordPress, SwiftUI
 - **Developer Tools:** Git, Docker, TravisCI, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
 - **Libraries:** pandas, NumPy, Matplotlib, scikit-learn
 
@@ -32,6 +32,7 @@ I'm a passionate aspiring Software Developer currently pursuing a Bachelor's deg
 
 - 📧 Email: akrovvidi05@gmail.com
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aniruddh-krovvidi-659725245)
+- Portfolio: [Portfolio](https://akrovvidi.com/)
 
 
 I'm eager to contribute my skills and passion for software development to innovative projects and teams. Let's connect and explore opportunities to create impactful solutions together!
